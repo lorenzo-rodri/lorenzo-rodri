@@ -37,5 +37,5 @@
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorenzo-rodri&theme=dark&show_icons=true&hide_border=true&layout=compact"
        alt="lorenzo-rodri Top Languages"/>
 </p>
-
+ 
 <br><br>
