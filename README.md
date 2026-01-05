@@ -3,7 +3,7 @@
 <br>
 
 <ul>
-  <li>🌱 I’m currently learning Web Development</li>
+  <li>🌱 I’m currently learning web development with React</li>
   <li>📫 Reach me at <strong><a href="mailto:lmrod2604@gmail.com">lmrod2604@gmail.com</a></strong></li>
 </ul>
 
