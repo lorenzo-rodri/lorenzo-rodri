@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Rodriguez</h1>
-<h3 align="center">Student at The University of Guelph 🌟</h3>
+<h1 align="center">Hi, I'm Lorenzo Rodriguez</h1>
+<h3 align="center">Student at The University of Guelph</h3>
 <br>
 
 <ul>
-  <li>🌱 I’m currently learning web development with React</li>
-  <li>📫 Reach me at <strong><a href="mailto:lmrod2604@gmail.com">lmrod2604@gmail.com</a></strong></li>
+  <li>I’m currently learning web development with React</li>
+  <li>Reach me at <strong><a href="mailto:lmrod2604@gmail.com">lmrod2604@gmail.com</a></strong></li>
 </ul>
 
 <br>
